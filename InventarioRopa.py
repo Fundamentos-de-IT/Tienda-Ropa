@@ -1,4 +1,4 @@
-#Inventario de tienda Version inicial 7/7/2020 Fundamentos de
+#Inventario de tienda Version inicial 7/7/2020 Fundamentos de IT
 class CantidadCamisas:
     CuelloRedondo =0
     CuelloV=0
