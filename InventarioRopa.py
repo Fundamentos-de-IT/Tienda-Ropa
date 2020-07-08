@@ -1,4 +1,4 @@
-#inventario de tienda Version inicial 7/7/2020
+#Inventario de tienda Version inicial 7/7/2020 Fundamentos de
 class CantidadCamisas:
     CuelloRedondo =0
     CuelloV=0
