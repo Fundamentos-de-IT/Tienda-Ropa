@@ -1,4 +1,4 @@
-#inventario de tienda
+#inventario de tienda Version inicial 7/7/2020
 class CantidadCamisas:
     CuelloRedondo =0
     CuelloV=0
